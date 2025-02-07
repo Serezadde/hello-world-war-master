@@ -1,13 +1,18 @@
+<!DOCTYPE html>
 <html>
 <head>
-<title>Hello World!</title>
+    <title>Mi Aplicación Web</title>
 </head>
 <body>
-	<h1>Hello World!</h1>
-	<p>
-		It is now
-		<%= new java.util.Date() %></p>
-	<p>
-		You are coming from 
-		<%= request.getRemoteAddr()  %></p>
+    <nav>
+        <ul>
+            <li><a href="/">Inicio</a></li>
+            <li><a href="/contacto">Contacto</a></li>
+        </ul>
+    </nav>
+
+    <h1>Bienvenido a Mi Aplicación Web</h1>
+    <p>...</p>
+
 </body>
+</html>
