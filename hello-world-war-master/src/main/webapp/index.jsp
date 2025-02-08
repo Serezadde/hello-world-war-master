@@ -7,6 +7,7 @@
     <nav>
         <ul>
             <li><a href="/">Inicio</a></li>
+            <li><a href="documentacion_christian.pdf" target="_blank">Documentación de Usuario (PDF)</a></li>
             <li><a href="/contacto">Contacto</a></li>
         </ul>
     </nav>
